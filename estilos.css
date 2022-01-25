@@ -77,6 +77,12 @@ aside a {
     margin-right: 10px;
 }
 
+aside a:hover {
+    background-color: #CC3637;
+    color: black;
+    height: 2em;
+}
+
   .row {
     display: flex;
     flex-wrap: wrap;
@@ -125,4 +131,3 @@ aside a {
       text-decoration: none;
       margin-right: 10px;
   }
-  
