@@ -14,24 +14,26 @@
     text-align: center;
     padding: 32px;
   }
-
-  .logo img {
-      max-height: 50px;
-      max-width: 50px;
-  }
   
   .topnav {
     overflow: hidden;
     background-color: #333;
+  }
+
+  .topnav img {
+      align-content: center;
+      margin: 6px 6px; 
+      margin-bottom: 0%;
   }
   
   .topnav a {
     float: top;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    line-height: 50px;
+    padding: 50px 50px;
     font-size: 17px;
+    text-decoration: none;
   }
   
   .topnav a:hover {
@@ -52,8 +54,24 @@
       float: right;
       font-style: bold;
       color: #CC3637; 
+      justify-content: center;
+      
     }
+
+  aside h1 {
+    font-size: 22px;
+  }
+
+  aside li {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
   
+aside img {
+     margin: 50px;
+     
+}  
+
   .row {
     display: flex;
     flex-wrap: wrap;
@@ -88,14 +106,7 @@
     }
   }
   
-  
-  .grid-container > div {
-    background-color: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    padding: 20px 0;
-    font-size: 30px;
-  }
-  
+
   footer {
     text-align: center;
     padding: 3px;
@@ -109,4 +120,5 @@
       text-decoration: none;
       margin-right: 10px;
   }
+  
   
