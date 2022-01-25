@@ -83,6 +83,20 @@ aside a:hover {
     height: 2em;
 }
 
+.button1 {background-color: #cc3637;}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
   .row {
     display: flex;
     flex-wrap: wrap;
@@ -116,7 +130,6 @@ aside a:hover {
       max-width: 100%;
     }
   }
-  
 
   footer {
     text-align: center;
