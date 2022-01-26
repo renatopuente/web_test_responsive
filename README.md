@@ -7,7 +7,7 @@ Es esta actividad te proponemos realizar una página web utilizando HTML5 y CSS3
 Desarrollo:
 Para realizar nuestra actividad, empezamos nombrando a nuestro grupo "Pacific-Blue HEX:#009DC4" en referencia al que usa la UNIR en su sitio web.
 Para el gestor de tareas usamos Notion con un tablero tipo "Kanban" donde incluimos todos los pendientes necesarios para finalizar el proyecto.
-Seguido creamos el prototipo en Figma en base a referencias que fuimos colocando los miembros del equipo en un "mood-board" que nos ayudó a encontrar el feel and look para el diseño de nuestra futura web.
+Seguido creamos el prototipo en Figma en base a referencias que fuimos colocando los miembros del equipo en un "mood-board" que nos ayudó a encontrar el look and feel para el diseño de nuestra futura web.
 
 Una vez que conseguimos el prototipado final, seguimos por exportar los elementos desde Figma y Notion: Código html, css, paleta de colores, tipografía, imágenes, iconos, favicon, textos, etc  
   
